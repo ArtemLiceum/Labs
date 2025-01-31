@@ -1,0 +1,17 @@
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\bin\Debug\net8.0-windows\Lab7.exe
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\bin\Debug\net8.0-windows\Lab7.deps.json
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\bin\Debug\net8.0-windows\Lab7.runtimeconfig.json
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\bin\Debug\net8.0-windows\Lab7.dll
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\bin\Debug\net8.0-windows\Lab7.pdb
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\Lab7.Form1.resources
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\Lab7.csproj.GenerateResource.cache
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\Lab7.AssemblyInfoInputs.cache
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\Lab7.AssemblyInfo.cs
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\Lab7.sourcelink.json
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\Lab7.dll
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\refint\Lab7.dll
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\Lab7.pdb
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\Lab7.genruntimeconfig.cache
+C:\Users\bedin\Desktop\лабы\лабораторная 7\Lab7\obj\Debug\net8.0-windows\ref\Lab7.dll
