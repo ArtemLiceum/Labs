@@ -33,6 +33,8 @@
             label2 = new Label();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
+            textBox3 = new TextBox();
+            label3 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -77,11 +79,29 @@
             textBox2.Size = new Size(209, 27);
             textBox2.TabIndex = 4;
             // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(159, 55);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(209, 27);
+            textBox3.TabIndex = 6;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(159, 32);
+            label3.Name = "label3";
+            label3.Size = new Size(204, 20);
+            label3.TabIndex = 5;
+            label3.Text = "Введите количество чисел n";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(595, 355);
+            Controls.Add(textBox3);
+            Controls.Add(label3);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
             Controls.Add(label2);
@@ -100,5 +120,7 @@
         private Label label2;
         private TextBox textBox1;
         private TextBox textBox2;
+        private TextBox textBox3;
+        private Label label3;
     }
 }
